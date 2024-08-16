@@ -1,1 +1,3 @@
-Command to install: sudo sh install.sh
+## Getting Started 
+```bash
+sudo sh install.sh
